@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Natural Language Processing.<br>👯 I’m looking to collaborate on Deep Learning and Machine Learning.<br>🌱 I’m currently learning Machine Learning Translation.<br>💬 Ask me about Machine Learning and Deep Learning.<br>
+🔭 I’m currently working on Natural Language Processing.<br>👯 I’m looking to collaborate on Deep Learning and Machine Learning.<br>🌱 I’m currently learning Neural Machine Translation.<br>💬 Ask me about Machine Learning and Deep Learning.<br>
 
 
 ## 🌐 Socials:
