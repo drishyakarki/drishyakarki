@@ -1,6 +1,6 @@
 file_path="README.md"
 
-current_date=$(date +"%Y-%m-%d %H:%M:%S")
+current_date=$(date +"%Y-%m-%d")
 
 if [[ $(head -n 1 "$file_path") == "#### Current Date: "* ]]; then
     sed -i "1s/.*/#### Current Date: $current_date/" "$file_path"
