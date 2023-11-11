@@ -13,8 +13,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=drishyakarki&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=drishyakarki&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-**Today Date: 2023-11-08**
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
