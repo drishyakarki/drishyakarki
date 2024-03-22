@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on **Speech Processing**.<br>👯 I’m looking to collaborate on Deep Learning and Machine Learning.<br>🌱 I’m currently learning **TTS**.<br>💬 Ask me about Machine Learning and Deep Learning.<br>
+🔭 I’m currently working on **Speech Processing**.<br>👯 I’m looking to collaborate on Deep Learning and Machine Learning.<br>🌱 I’m currently learning **GenAI**.<br>💬 Ask me about Machine Learning and Deep Learning.<br>
 
 
 ## 🌐 Socials:
