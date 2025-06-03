@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on **Video Understanding**.<br>👯 I’m looking to collaborate on Deep Learning and Machine Learning projects.<br>🌱 I’m currently learning **lots of stuff**🫠.<br>💬 Ask me about Machine Learning and Deep Learning.<br>
+🔭 I work at the intersection of **Video Understanding**, **Deep Learning** and **Efficient Model Design**.<br>🎯 Currently focused on spatiotemporal learning, action recognition and representation learning from video data.<br>💬 Always curious to meet people working on ML problems that demand real thinking. Feel free to hit me up if you want to talk shop, collaborate, or just share cool ideas.<br>
 
 
 ## 🌐 Socials:
